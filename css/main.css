@@ -27,3 +27,8 @@ header {
   #respuestas{
     display: none;
   } 
+
+  h1{
+      background-color: pink;
+      border-radius: 1PX solid green;g
+  }
